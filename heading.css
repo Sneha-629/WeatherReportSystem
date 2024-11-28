@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(148, 148, 239);
+}
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    align-content: center;
+    background-color: rgb(71, 171, 237);
+    color:#ffff;
+    height: 50px;
+    padding: 5px;
+    text-transform: uppercase;
+    font-family:cursive;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px white,
+    0px 0px 20px white,
+    0px 0px 40px white,
+    0px 0px 75px white;
+}
